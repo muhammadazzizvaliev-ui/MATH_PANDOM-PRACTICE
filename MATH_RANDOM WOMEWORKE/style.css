@@ -1,0 +1,49 @@
+body{
+   
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:linear-gradient(135deg,#070f07,#2b7e27);
+    transition:0.5s;
+}
+
+.gadalki{
+    background:white;
+    padding:40px;
+    border-radius:20px;
+    text-align:center;
+    width:350px;
+    box-shadow:0 0 20px rgba(0,0,0,.2);
+}
+
+h1{
+    margin-bottom:10px;
+}
+
+input{
+    width:80%;
+    padding:10px;
+    font-size:18px;
+    border-radius:10px;
+    border:1px solid gray;
+}
+
+button{
+    margin-top:15px;
+    padding:10px 20px;
+    font-size:18px;
+    border:none;
+    border-radius:10px;
+    cursor:pointer;
+    background:#007bff;
+    color:white;
+    transition:.3s;
+}
+
+
+
+
+
+
+
